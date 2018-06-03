@@ -10,4 +10,4 @@ You should NOT try to redefine any of the above variables.
 
 let newID = oldID + 1000000000;
 
-let ageIsValid = true if typeof(currentAge) == integer
+let ageIsValid = true if typeof(currentAge) == integer;
